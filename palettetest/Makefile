@@ -22,7 +22,7 @@ SRCS += sample_spinner.png
 SRCS += pal_a.png
 SRCS += pal_b.ase
 SRCS += pal_c.gpl
-SRCS += pal_d.gpl
+SRCS += pal_d.txt
 
 # Libraries we are linking against
 LIBS += -lnaomisprite
