@@ -1,5 +1,5 @@
-#ifndef TEST_MAIN_H
-#define TEST_MAIN_H
+#ifndef PALETTE_ANIMATION_H
+#define PALETTE_ANIMATION_H
 
 #ifdef __cplusplus
 extern "C" {
